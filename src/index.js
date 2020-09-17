@@ -13,7 +13,6 @@ class MANEZCO_APP extends Component {
 			<>
 		 	<Router>
 			<Navbar/>
-			<Route exact path={"/quiz_app/"}  component={Theory} />
             <Route exact path={"/quiz_app/theory"}  component={Theory} />
             <Route exact path={"/quiz_app/quiz"} component={App} />           
 			</Router> 
