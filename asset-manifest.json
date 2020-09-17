@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quiz_app/static/css/main.9f282d92.chunk.css",
-    "main.js": "/quiz_app/static/js/main.97240c68.chunk.js",
-    "main.js.map": "/quiz_app/static/js/main.97240c68.chunk.js.map",
+    "main.js": "/quiz_app/static/js/main.51acfb68.chunk.js",
+    "main.js.map": "/quiz_app/static/js/main.51acfb68.chunk.js.map",
     "runtime-main.js": "/quiz_app/static/js/runtime-main.905b4f5f.js",
     "runtime-main.js.map": "/quiz_app/static/js/runtime-main.905b4f5f.js.map",
     "static/js/2.1929681f.chunk.js": "/quiz_app/static/js/2.1929681f.chunk.js",
     "static/js/2.1929681f.chunk.js.map": "/quiz_app/static/js/2.1929681f.chunk.js.map",
     "index.html": "/quiz_app/index.html",
-    "precache-manifest.9b3874c1c22ada01ed0b8a37b4c8fee4.js": "/quiz_app/precache-manifest.9b3874c1c22ada01ed0b8a37b4c8fee4.js",
+    "precache-manifest.d5298fa52540dd600496b2a93f5b19b8.js": "/quiz_app/precache-manifest.d5298fa52540dd600496b2a93f5b19b8.js",
     "service-worker.js": "/quiz_app/service-worker.js",
     "static/css/main.9f282d92.chunk.css.map": "/quiz_app/static/css/main.9f282d92.chunk.css.map",
     "static/js/2.1929681f.chunk.js.LICENSE.txt": "/quiz_app/static/js/2.1929681f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.905b4f5f.js",
     "static/js/2.1929681f.chunk.js",
     "static/css/main.9f282d92.chunk.css",
-    "static/js/main.97240c68.chunk.js"
+    "static/js/main.51acfb68.chunk.js"
   ]
 }
